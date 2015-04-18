@@ -74,7 +74,6 @@ a setting. Please be aware of that.
  * Homebrew (package manager, kind-of)
  * ImageMagick (image conversion tools)
  * MacTeX (TeX distribution)
- * Python PIP (package manager; allows you to install python packages with `--user`)
  * git, hg, svn, fossil
  
 ## Compilers and Software Development Tools
@@ -84,6 +83,7 @@ a setting. Please be aware of that.
  * Java stuff: JDK 1.8, ant, maven, gradle, IntelliJ IDEA CE
  * nim
  * SourceTree (version control GUI)
+ * Python stuff: python3, pip, pip3, virtualenv
 
 ### GCC
 
