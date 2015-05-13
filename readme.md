@@ -84,6 +84,7 @@ a setting. Please be aware of that.
  * nim
  * SourceTree (version control GUI)
  * Python stuff: python3, pip, pip3, virtualenv
+ * nodejs + npm
 
 ### GCC
 
