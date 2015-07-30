@@ -96,11 +96,16 @@ can compile Ada, C, C++ and ObjC.
 
  * boost
 
+## Drivers
+
+ * printer.shack
+
 ## Other Stuff
 
  * Seashore (image editing)
  * GIMP (image editing)
  * Colibricks (breakout)
+ * Civilization V: Campaign Edition (strategy game)
  * NTFS-3g (NTFS r/w driver)
  * XLD (audio converter)
  * The Unarchiver (exactly what it says on the tin)
